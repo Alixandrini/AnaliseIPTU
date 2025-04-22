@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/analise_iptu" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
